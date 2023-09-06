@@ -1,0 +1,1 @@
+In this task we are supooseed to explore more about linux terminals and its commands. It was really interesting knowing about many cmmands in linux. I used the reference which was given in the task to study more about linux commands. Initially it was a bit confusing but later on i got the hang of it and was able to use the commands.
