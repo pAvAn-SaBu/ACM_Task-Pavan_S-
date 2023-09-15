@@ -1,0 +1,1 @@
+This was a task based on coding. There were 4 problem which we were supposed to solve. I was able to solve about 3 out of the 4 problems. one of them was a little bit difficult i will try to do the rest by learning more about the programming language
